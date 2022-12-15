@@ -22,12 +22,14 @@ export default function Header({}: Props) {
                   duration: .6
               }}
               className='flex flex-row items-center'>
+                  <SocialIcon url="https://www.spotify.com" bgColor='rgb(30,30,30)' fgColor='gray' />
               <SocialIcon url="https://github.com/nazish-16" bgColor='transparent'
               fgColor='gray'/>
               <SocialIcon url="https://twitter.com" bgColor='transparent'
               fgColor='gray'/>
               <SocialIcon url="https://www.linkedin.com/in/nazish-ahmed-920b9a245/" bgColor='transparent'
-              fgColor='gray'/>
+                  fgColor='gray' />
+              <SocialIcon url="https://facebook.com" bgColor='transparent' fgColor='gray'/>
           </motion.div>
           <motion.div
               initial={{

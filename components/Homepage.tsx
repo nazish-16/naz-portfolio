@@ -7,7 +7,7 @@ type Props = {}
 
 function Homepage({ }: Props) {
     const [text, count] = useTypewriter({
-        words: ["Hola, I'm Nazish AKA Frezz1ck", "I am a Web Developer", "And a Web Designer"],
+        words: ["Hola, I'm Nazish Ahmed AKA Frezz1ck", "Front-end Web Developer.", "Web Designer.", "Pro gamer too lol!"],
         loop: true,
         delaySpeed: 2000
     })
@@ -15,7 +15,7 @@ function Homepage({ }: Props) {
       <section className='h-screen flex flex-col space-y-8 justify-center text-center overflow-hidden'>
           <Backgroundcircle />
           <div className='relative bottom-20'>
-          <img src="https://i.pinimg.com/736x/37/67/cc/3767ccc3563df32f9612a8f8c67e6306.jpg" className='relative rounded-full h-52 w-52 mx-auto object-cover' />
+          <img src="https://i.pinimg.com/736x/37/67/cc/3767ccc3563df32f9612a8f8c67e6306.jpg" className='relative rounded-full h-52 w-52 mx-auto object-cover border border-[#F7AB0A] bottom-5'/>
           <div className='z-20'>
               <h2 className='text-sm text-gray-500 pb-2 tracking-[12px]'>SOFTWARE DEVELOPER</h2>
         <h1 className='text-1.5xl lg:text-2xl font-semibold px-10'>
@@ -30,6 +30,9 @@ function Homepage({ }: Props) {
                   </Link>
                   <Link href="#skills">
                   <button className='heroButton'>Skills</button>
+                      </Link>
+                      <Link href="https://www.patreon.com/user?u=60690928">
+                  <button className='heroButton'>Patreon</button>
                   </Link>
               </div>
           </div>
