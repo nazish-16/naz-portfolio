@@ -3,6 +3,7 @@ import styles from '../styles/Home.module.css'
 import Header from '../components/Header'
 import Homepage from '../components/Homepage'
 import About from '../components/About'
+import Experience from '../components/Experience'
 
 export default function Home() {
   return (
@@ -19,6 +20,9 @@ export default function Home() {
       </section>
       <section id='about' className='snap-center'>
         <About/>
+      </section>
+      <section id='experience' className='snap-center'>
+          <Experience/>
       </section>
     </div>
   )

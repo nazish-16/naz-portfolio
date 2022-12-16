@@ -7,3 +7,16 @@
     @apply px-6 py-2 border border-[#242424] rounded-full uppercase text-xs tracking-widest text-gray-500 transition-all hover:border-[#F7AB0A] hover:text-[#F7AB0A];
   }
 }
+*::-webkit-scrollbar {
+  width: 5px;
+  height: 7px;
+}
+
+*::-webkit-scrollbar-track {
+  background: #08090d;
+}
+
+*::-webkit-scrollbar-thumb {
+  background-color: #f7ab0a;
+  border: 0px solid #ffffff;
+}
