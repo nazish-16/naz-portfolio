@@ -27,10 +27,10 @@ function About({}: Props) {
                   opacity:0.7
               }}
               transition={{
-                  duration:.5
+                  duration: .5
               }}
               whileHover={{
-                  opacity:0.8
+                  opacity: 0.8,
               }}
               viewport={{once: true}}
               src="https://media.discordapp.net/attachments/882930814583726110/1053557242584105080/70dbf1a9-fd01-4272-b251-843cb24002f5.jpg?width=503&height=671"
