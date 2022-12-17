@@ -40,7 +40,7 @@ function Homepage({ }: Props) {
                   <Link href="#skills">
                   <button className='heroButton'>Skills</button>
                       </Link>
-                      <Link href="https://www.patreon.com/user?u=60690928">
+                      <Link href="https://www.patreon.com/user?u=60690928" target="_blank">
                   <button className='heroButton'>Patreon</button>
                   </Link>
               </div>
