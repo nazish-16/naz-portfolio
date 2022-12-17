@@ -24,7 +24,7 @@ function Experiencecardthree({}: Props) {
               <ul className='list-disc space-y-4 ml-5 text-lg'>
                    <li>Developed the TYZEN page using Typescript.</li>
                    <li>Manages the social media accounts of Tyzen.</li>
-                  <li>Built a page for the bot `orator.xyz`.</li>
+                  <li>Built a page for the bot `Tyzen.xyz`.</li>
                   <li>Worked as a web developer with co-workers.</li>
               </ul>
           </div>

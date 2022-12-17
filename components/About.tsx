@@ -30,10 +30,10 @@ function About({}: Props) {
                   duration:.5
               }}
               whileHover={{
-                  opacity:1
+                  opacity:0.8
               }}
               viewport={{once: true}}
-              src="https://i.pinimg.com/originals/e9/ba/4f/e9ba4fb592e7117eed8beff7ad43c57e.jpg"
+              src="https://media.discordapp.net/attachments/882930814583726110/1053557242584105080/70dbf1a9-fd01-4272-b251-843cb24002f5.jpg?width=503&height=671"
               className='relative -mb-50 md:mb-0 flex-shrink-0 w-72 h-72 rounded-full object-cover md:rounded-lg md:w-62 h-62 xl:w-[500px] xl:h-[600px] border border-[#F7AB0A] bottom-2'
           />
           <motion.div
