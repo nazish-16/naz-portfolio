@@ -9,16 +9,6 @@ export default function Skill4({directionLeft}: Props) {
   return (
     <div className='group relative flex cursor-pointer'>
       <motion.img
-        initial={{
-          x: directionLeft ? -200 : 200
-        }}
-        transition={{
-          duration:.5
-        }}
-        whileInView={{
-          opacity: 1,
-          x:0
-        }}
         viewport={{once:true}}
         src="https://seeklogo.com/images/N/next-js-icon-logo-EE302D5DBD-seeklogo.com.png"
         className='rounded-full border border-gray-500 object-cover h-24 w-24 xl:h-32 xl:w-32 filter group-hover:grayscale transition duration-400 ease-in-out'

@@ -9,16 +9,6 @@ export default function Skill13({directionLeft}: Props) {
   return (
     <div className='group relative flex cursor-pointer'>
       <motion.img
-        initial={{
-          x: directionLeft ? -200 : 200
-        }}
-        transition={{
-          duration:.5
-        }}
-        whileInView={{
-          opacity: 1,
-          x:0
-        }}
         viewport={{once:true}}
         src="https://img.icons8.com/external-kiranshastry-lineal-color-kiranshastry/512/external-web-design-coding-kiranshastry-lineal-color-kiranshastry.png"
         className='rounded-full border border-gray-500 object-cover h-24 w-24 xl:h-32 xl:w-32 filter group-hover:grayscale transition duration-400 ease-in-out'
