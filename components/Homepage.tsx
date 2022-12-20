@@ -24,7 +24,7 @@ function Homepage({ }: Props) {
                   whileHover={{
                       scale:1.01
                   }}
-                  src="https://media.discordapp.net/attachments/882930814583726110/1053296539566604308/1671195823097.jpg?width=579&height=606" className='relative rounded-full h-52 w-52 mx-auto object-cover border border-[#F7AB0A] bottom-5' />
+                  src="https://i.pinimg.com/originals/68/a0/53/68a05334870c857cc65f008d7849e69c.jpg" className='relative rounded-full h-52 w-52 mx-auto object-cover border border-[#F7AB0A] bottom-5' />
           <div className='z-20'>
               <h2 className='text-sm text-gray-500 pb-2 tracking-[12px]'>SOFTWARE DEVELOPER</h2>
         <h1 className='text-1.5xl lg:text-2xl font-semibold px-10'>
@@ -40,8 +40,8 @@ function Homepage({ }: Props) {
                   <Link href="#skills">
                   <button className='heroButton'>Skills</button>
                       </Link>
-                      <Link href="https://www.patreon.com/user?u=60690928" target="_blank">
-                  <button className='heroButton'>Patreon</button>
+                      <Link href="contact">
+                  <button className='heroButton'>Contact</button>
                   </Link>
               </div>
           </div>
