@@ -1,6 +1,6 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-Mostly the scripts are written in Typescript, framer-motion, Sanity.io
+Mostly the scripts are written in Typescript, framer-motion, Sanity.io, Css
 
 ## Getting Started
 
