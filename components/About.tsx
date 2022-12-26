@@ -39,12 +39,12 @@ function About({}: Props) {
           <motion.div
               viewport={{ once: true}}
               className='space-y-10 px-0 md:p-10'>
-              <h4 className='text-4xl font-semibold uppercase relative bottom-10'><span className='text-[#ffcd61]'>Regarding</span> Me</h4>
+              <h4 className='text-4xl font-semibold uppercase relative bottom-10'><span className='text-[#ffcd61]'>About</span> Me</h4>
               <p className='text-base relative bottom-10'>
-                  I am a positive self-taught, enthusiastic and competent Web Developer who, over the years, has built up a diverse range of skills, qualities and attributes that guarantee I will perform highly in this role. I am passionate about designing and building e-commerce, personal portfolios, statistics page websites, and helping out people in their website development work. I like to work in a team and coordinate with the other devs and create something new. I have built many web development projects using React.js next.js and typescript. I dedicate my time to learning something new alongside my academics.
+                  I am a skilled and dedicated Web developer that is self-taught and self-assured. I have a diverse range of skills, traits, and abilities cultivated through the years and guarantee my success in this line of work. I enjoy developing e-commerce websites, online portfolios, and statistics pages and helping others with their website development work. Working in a team, brainstorming new ideas, and cooperating with other developers are things I enjoy doing. Many of the web development projects Ive worked on, have been built using React.js, Next.js, and Typescript. I spend time learning new topics outside of my academic career.
               </p>
               <p className='text-base relative bottom-10'>
-                  I started to code around in 2020. I am a creative designer and developer, who aims to work with small businesses and marginalized communities to bring their passions to life. I offer both design and development services for web applications or websites! focused on the MERN stack, but still exploring other technologies and frameworks that catch my interest! if youre looking for a developer to add to your team, Id love to hear from you!
+                  Around 2020, I began learning to code. Im a talented designer and developer who wants to help small businesses and underserved areas realize their ambitions. I provide both design and development services for websites and online applications! Although I mostly used the MERN stack, I am continuously investigating other technologies and frameworks that interest me. Id love to hear from you if you want to expand your team with a developer!
             </p>
           </motion.div>
       </motion.div>

@@ -40,7 +40,7 @@ function Homepage({ }: Props) {
                   <Link href="#skills">
                   <button className='heroButton'>Skills</button>
                       </Link>
-                      <Link href="contact">
+                      <Link href="#contact">
                   <button className='heroButton'>Contact</button>
                   </Link>
               </div>
