@@ -20,7 +20,7 @@ function Contact({}: Props) {
 
         <div className='space-y-8'>
           <div className='flex flex-col space-y-7'>
-              <h4 className='text-2xl font-semibold text-center'>Feel free to contact!</h4>
+              <h4 className='text-2xl font-semibold text-center'>Feel free to contact.</h4>
               <div className='flex items-center space-x-5 justify-center'>
                   <PhoneIcon className='text-[#F7AB0A] h-7 w-7 animate-pulse'/>
                   <p className='text-1xl'>81795-56511</p>
@@ -44,7 +44,7 @@ function Contact({}: Props) {
                   <textarea className='contactInput' placeholder='Message'
                     {...register('message')}
                   />
-                  <button type='submit' className='border border-[#F7AB0A] py-5 px-10 rounded-md text-white font-bold text-lg transition-all'>Submit</button>
+                  <button type='submit' className='border border-[#F7AB0A] py-5 px-10 rounded-md text-white font-bold text-lg transition-all hover:bg-[#f7ac0a62] hover:border-[]'>Submit</button>
               </form>
           </div>
       </div>

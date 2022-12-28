@@ -51,7 +51,7 @@ export default function Header({}: Props) {
                   network='email'
                   fgColor='gray'
                   bgColor='transparent'
-                  href=''
+                  href='#'
               />
               <p className='uppercase hidden md:inline-flex text-sm text-gray-500'>Get in touch</p>
           </motion.div>
