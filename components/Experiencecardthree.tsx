@@ -22,10 +22,10 @@ function Experiencecardthree({}: Props) {
               <p className='font-bold text-2xl mt-1'>TYZEN</p>
               <p className='uppercase py-5 text-gray-300'>Started work at 18-11-2022 - PART TIME</p>
               <ul className='list-disc space-y-4 ml-5 text-lg'>
-                   <li>Developed the TYZEN page using Typescript.</li>
-                   <li>Manages the social media accounts of Tyzen.</li>
-                  <li>Built a page for the bot `Tyzen.xyz`.</li>
-                  <li>Worked as a web developer with co-workers.</li>
+                  <li>Worked as a web developer and a designer</li>
+                   <li>Developed the TYZEN page using Typescript and Tailwind</li>
+                   <li>Managed the social media accounts of Tyzen.</li>
+                  <li>Hosted the website through hostinger</li>
               </ul>
           </div>
     </article>

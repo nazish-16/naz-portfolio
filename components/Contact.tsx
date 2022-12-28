@@ -23,7 +23,7 @@ function Contact({}: Props) {
               <h4 className='text-2xl font-semibold text-center'>Feel free to contact!</h4>
               <div className='flex items-center space-x-5 justify-center'>
                   <PhoneIcon className='text-[#F7AB0A] h-7 w-7 animate-pulse'/>
-                  <p className='text-1xl'>1234567890</p>
+                  <p className='text-1xl'>81795-56511</p>
               </div>
               <div className='flex items-center space-x-5 justify-center'>
                   <MapPinIcon className='text-[#F7AB0A] h-7 w-7 animate-pulse'/>

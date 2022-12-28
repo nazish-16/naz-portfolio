@@ -22,10 +22,9 @@ function Experiencecard({ }: Props) {
                 <p className='font-bold text-2xl mt-1'>SOFI</p>
                 <p className='uppercase py-5 text-gray-300'>Started work at 13-01-2022 - PART TIME</p>
                 <ul className='list-disc space-y-4 ml-4 text-lg'>
-                    <li>Designed the Sofi page.</li>
-                    <li>Built a stats page for sofi using Next.js.</li>
                     <li>Worked as a web developer with co-workers.</li>
-                    <li>Lorem ipsum dolor sit amet consectetur..</li>
+                    <li>Designed the Sofi page alognside a developer</li>
+                    <li>Built a stats page for sofi using Next.js.</li>
                 </ul>
             </div>
         </article>

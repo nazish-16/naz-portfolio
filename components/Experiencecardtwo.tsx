@@ -22,10 +22,10 @@ function Experiencecardtwo({}: Props) {
               <p className='font-bold text-2xl mt-1'>ORATOR</p>
               <p className='uppercase py-5 text-gray-300'>Started work at 05-10-2022 - PART TIME</p>
               <ul className='list-disc space-y-4 ml-5 text-lg'>
+                  <li>Worked as a web developer and a designer</li>
                    <li>Designed and Developed the Orator page.</li>
-                   <li>Manages the twitter and Linkedin account of Orator.</li>
+                   <li>Managed the twitter and Linkedin account of Orator.</li>
                   <li>Built a page for the bot `orator.xyz`.</li>
-                  <li>Worked as a web developer with co-workers.</li>
               </ul>
           </div>
     </article>
