@@ -33,7 +33,7 @@ function About({}: Props) {
                   opacity: 0.8,
               }}
               viewport={{once: true}}
-              src="https://media.discordapp.net/attachments/882930814583726110/1053557242584105080/70dbf1a9-fd01-4272-b251-843cb24002f5.jpg?width=503&height=671"
+              src="https://media.licdn.com/dms/image/D4E03AQG5HCuFjT2WGA/profile-displayphoto-shrink_800_800/0/1671209267323?e=1678320000&v=beta&t=q8jeapd4MQa1NtdgO1Pz2adnc0-EsFILgMqGLNPVs6w"
               className='relative -mb-50 md:mb-0 flex-shrink-0 w-72 h-72 rounded-full object-cover md:rounded-lg md:w-62 h-62 xl:w-[500px] xl:h-[600px] border border-[#F7AB0A] bottom-2'
           />
           <motion.div
