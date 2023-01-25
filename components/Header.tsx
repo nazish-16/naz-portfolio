@@ -25,11 +25,11 @@ export default function Header({}: Props) {
                   <SocialIcon url="https://www.spotify.com" bgColor='transparent' fgColor='gray'  />
               <SocialIcon url="https://github.com/nazish-16" bgColor='transparent'
               fgColor='gray'/>
-              <SocialIcon url="https://twitter.com" bgColor='transparent'
+              <SocialIcon url="https://steamcommunity.com/id/frezz1ck/" bgColor='transparent'
               fgColor='gray'/>
               <SocialIcon url="https://www.linkedin.com/in/nazish-ahmed-920b9a245/" bgColor='transparent'
                   fgColor='gray'/>
-              <SocialIcon url="https://facebook.com" bgColor='transparent' fgColor='gray'/>
+              <SocialIcon url="https://www.reddit.com/user/Fragrant_Guide_3096" bgColor='transparent' fgColor='gray'/>
           </motion.div>
           <motion.div
               initial={{
