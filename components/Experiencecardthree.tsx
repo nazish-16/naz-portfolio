@@ -14,18 +14,17 @@ function Experiencecardthree({}: Props) {
               transition={{ duration: .7 }}
               whileInView={{ opacity: 1, y: 0 }}
               viewport={{once: true}}
-              src="https://media.discordapp.net/attachments/1064131944759165038/1067502804379373640/bruahdm_a_nori_sheet_illustratet_as_a_cute_girl_with_short_gree_0031ac5a-d7c7-4291-9d24-e6745c0942dd.png"
+              src="https://images-ext-1.discordapp.net/external/peh0_klWYm1eWqypBmhBXVF2rYK20fMZf50ehozsOuQ/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/950166445034188820/16b7802b410ebabbf700bd070ee3dbca.webp?width=676&height=676"
           className='w-32 h-32 rounded-full xl:w-[200px] xl:h-[200px] object-cover object-center' alt='NORI'
           />
           <div className='px-0 md:px-10'>
               <h4 className='text-4xl font-light'>Front-end developer</h4>
-              <p className='font-bold text-2xl mt-1'>NORI</p>
+              <p className='font-bold text-2xl mt-1'>SOFU</p>
               <p className='uppercase py-5 text-gray-300'>Started work at 21-01-2023 - PART TIME</p>
               <ul className='list-disc space-y-4 ml-5 text-lg'>
                   <li>Worked as a web developer and a designer</li>
-                   <li>Developed the NORI page using Typescript, next.js and Tailwind</li>
-                   <li>Designed the NORI website</li>
-                   <li>Managed the social media accounts of NORI.</li>
+                   <li>Developed the SOFU page using Typescript, next.js and Tailwind</li>
+                   <li>Designed the SOFU website</li>
               </ul>
           </div>
     </article>
