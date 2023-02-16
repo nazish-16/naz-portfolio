@@ -1,5 +1,5 @@
 import React from 'react'
-import {MapPinIcon, EnvelopeIcon } from "@heroicons/react/24/solid";
+import { PhoneIcon, MapPinIcon, EnvelopeIcon } from "@heroicons/react/24/solid";
 import { useForm, SubmitHandler } from "react-hook-form";
 
 type Inputs = {
@@ -19,6 +19,12 @@ function Contact({}: Props) {
           <h3 className='absolute top-24 uppercase tracking-[20px] text-gray-500 text-2xl'>Contact</h3>
 
         <div className='space-y-8'>
+          <div className='flex flex-col space-y-7'>
+              <h4 className='text-2xl font-semibold text-center'>Feel free to contact.</h4>
+              <div className='flex items-center space-x-5 justify-center'>
+                  <PhoneIcon className='text-[#F7AB0A] h-7 w-7 animate-pulse'/>
+                  <p className='text-1xl'>1234567890</p>
+              </div>
               <div className='flex items-center space-x-5 justify-center'>
                   <MapPinIcon className='text-[#F7AB0A] h-7 w-7 animate-pulse'/>
                   <p className='text-1xl'>Hyderabad, Telengana</p>
