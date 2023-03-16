@@ -14,7 +14,7 @@ function Experiencecardthree({}: Props) {
               transition={{ duration: .7 }}
               whileInView={{ opacity: 1, y: 0 }}
               viewport={{once: true}}
-              src="https://images-ext-1.discordapp.net/external/peh0_klWYm1eWqypBmhBXVF2rYK20fMZf50ehozsOuQ/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/950166445034188820/16b7802b410ebabbf700bd070ee3dbca.webp?width=676&height=676"
+              src="https://images-ext-2.discordapp.net/external/vjyVaxyWFiIH8OGFONRtRvvwvnLm2ihduLwQSCW7gVw/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/950166445034188820/448f66351e7325c3f3d1cba0bd13a83f.webp?width=702&height=702"
           className='w-32 h-32 rounded-full xl:w-[200px] xl:h-[200px] object-cover object-center' alt='NORI'
           />
           <div className='px-0 md:px-10'>
