@@ -9,7 +9,7 @@ type Props = {}
 
 function Homepage({ }: Props) {
     const [text, count] = useTypewriter({
-        words: ["Hola, I'm Nazish Ahmed AKA Frezz1ck", "Front-end Web Developer.", "Web Designer.", "Pro gamer too lol!"],
+        words: ["💛 Hola, I'm Nazish Ahmed", "Also known as Frezz1ck 🦾", "Full stack developer", "Pro gamer too 🎮 lololol"],
         loop: true,
         delaySpeed: 1000
     })
