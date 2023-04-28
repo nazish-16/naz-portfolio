@@ -24,7 +24,7 @@ function Homepage({ }: Props) {
                     whileHover={{
                         scale: 1.01,
                     }}
-                    src="https://gifdb.com/images/high/anime-pfp-houtarou-oreki-coffee-hnsx5zjd33cm6g2t.gif" className='relative rounded-full h-52 w-52 mx-auto object-cover border border-[#F7AB0A] bottom-5' />
+                    src="https://screenwaffle.files.wordpress.com/2020/07/giphy.gif" className='relative rounded-full h-52 w-52 mx-auto object-cover border border-[#F7AB0A] bottom-5' />
                 <div className='z-20'>
                     <h2 className='text-sm text-gray-500 pb-2 tracking-[12px]'>SOFTWARE DEVELOPER</h2>
                     <h1 className='text-1.5xl lg:text-2xl font-semibold px-10'>

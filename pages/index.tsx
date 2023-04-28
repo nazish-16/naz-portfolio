@@ -28,6 +28,9 @@ export default function Home() {
       <section id='skills'>
         <Skills/>
       </section>
+      <section id='contact'>
+        <Contact/>
+      </section>
     </div>
   )
 }
