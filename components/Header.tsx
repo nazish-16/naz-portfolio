@@ -22,7 +22,6 @@ export default function Header({}: Props) {
                   duration: .6
               }}
               className='flex flex-row items-center'>
-                  <SocialIcon url="https://www.spotify.com" bgColor='transparent' fgColor='gray'  />
               <SocialIcon url="https://github.com/nazish-16" bgColor='transparent'
               fgColor='gray'/>
               <SocialIcon url="https://steamcommunity.com/id/frezz1ck/" bgColor='transparent'

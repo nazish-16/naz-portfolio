@@ -14,7 +14,7 @@ function Experiencecardtwo({}: Props) {
               transition={{ duration: .7 }}
               whileInView={{ opacity: 1, y: 0 }}
               viewport={{once: true}}
-              src="https://media.discordapp.net/attachments/943954324608921630/1051781726797578260/New_Project.png?width=606&height=606"
+              src="https://images-ext-2.discordapp.net/external/KRH_VxrPe6A6GaQYJ-QkRUxhZ732ZNmY-HhzMKDQQRc/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/948637316145102868/9e2bd3ada122e5de904812c62f05bffe.webp?width=702&height=702"
           className='w-32 h-32 rounded-full xl:w-[200px] xl:h-[200px] object-cover object-center' alt='ORATOR'
           />
           <div className='px-0 md:px-10'>
