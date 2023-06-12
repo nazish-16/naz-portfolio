@@ -18,7 +18,7 @@ function Experiencecardtwo({}: Props) {
           className='w-32 h-32 rounded-full xl:w-[200px] xl:h-[200px] object-cover object-center' alt='ORATOR'
           />
           <div className='px-0 md:px-10'>
-              <h4 className='text-4xl font-light'>Front-end developer</h4>
+              <h4 className='text-4xl font-light'>Full stack developer</h4>
               <p className='font-bold text-2xl mt-1'>ORATOR</p>
               <p className='uppercase py-5 text-gray-300'>Started work at 05-10-2022 - PART TIME</p>
               <ul className='list-disc space-y-4 ml-5 text-lg'>
